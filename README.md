@@ -57,7 +57,8 @@ plt.show()
 ```
 
 ## Output:
-![ml ep-1](![image](https://user-images.githubusercontent.com/113583090/227873386-9ab0dd90-8dcc-42ed-b430-234b1bb944fd.png)))
+![ml ep-1](![image](https://user-images.githubusercontent.com/113583090/227874287-a97291f9-815d-4c1f-89b3-b018aca4e70d.png)
+
 
 
 
