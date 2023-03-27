@@ -25,6 +25,7 @@ Developed by: Manjupriya P
 RegisterNumber: 212220220024
 */
 ## Least squares method:
+
 import numpy as np
 import matplotlib.pyplot as plt
 X=np.array([8,2,11,6,5,4,12,9,6,1])
@@ -56,7 +57,7 @@ plt.show()
 ```
 
 ## Output:
-![ml ep-1](![image](https://user-images.githubusercontent.com/113583090/227869805-f0cdaaaa-ea11-43f9-8741-304f6c8252cb.png))
+![ml ep-1](![image](https://user-images.githubusercontent.com/113583090/227873386-9ab0dd90-8dcc-42ed-b430-234b1bb944fd.png)))
 
 
 
